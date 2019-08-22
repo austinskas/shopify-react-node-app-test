@@ -31,6 +31,7 @@ const GET_PRODUCTS_BY_ID = gql`
           edges {
             node {
               price
+              CurrencyCodes
               id
             }
           }

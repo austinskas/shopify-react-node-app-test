@@ -68,7 +68,7 @@ class EditProduct extends React.Component {
                           <TextField
                             prefix="$"
                             value={price}
-                            disabled={true}
+                            disabled
                             label="Original price"
                             type="price"
                           />
