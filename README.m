@@ -1,1 +1,1 @@
-# shopifytest
+# shopify app for discounts
